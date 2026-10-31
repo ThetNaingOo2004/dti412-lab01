@@ -31,3 +31,5 @@ From DTI412, I expect to improve my application development skills, understand v
 - **Technical Skills I Want to Improve:** Python, PHP, JavaScript, database management, and software development practices
 - **Technologies I Want to Learn:** Laravel, React, and AI development tools
 - **Dream Job Position:** Full-Stack Developer
+
+- **Learning Approach:** Practicing programming through hands-on projects.
